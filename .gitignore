@@ -1,0 +1,22 @@
+##########
+# Python #
+##########
+# Compiled source
+*.pyc
+
+# Packages
+*.egg
+/.eggs
+*.egg-info
+
+# Tests
+.cache
+__pycache__
+/.tox
+/.coverage
+
+##############
+# Javascript #
+##############
+# Packages
+/node_modules

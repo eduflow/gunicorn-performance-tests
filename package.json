@@ -1,0 +1,14 @@
+{
+  "name": "http-performance-testing",
+  "version": "0.0.4",
+  "description": "Testing web servers and HTTP server benchmarking tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malthe Jørgensen <malthe.jorgensen@gmail.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
